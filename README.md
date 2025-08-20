@@ -1,2 +1,3 @@
-# sesi-n-1-Python
+#**Sesion 1 de la clase de Propulsor Python Basico**
 Primer código de python 
+#
